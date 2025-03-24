@@ -1,0 +1,8 @@
+__pycache__/
+.vscode/
+*.pkl
+*.pt
+models/
+data/
+.DS_Store
+*.env
